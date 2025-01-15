@@ -1,0 +1,5 @@
+com\example\matchstats\Application.class
+com\example\matchstats\model\MatchStats.class
+com\example\matchstats\config\WebConfig.class
+com\example\matchstats\data\MockData.class
+com\example\matchstats\controller\MatchStatsController.class
