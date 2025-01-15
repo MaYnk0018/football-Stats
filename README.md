@@ -21,12 +21,12 @@ npm install
 
 npm start
 
-### Frontend
+### Backend
 
-1. Navigate to the `football-stats-backend` directory:
+1. Navigate to the `football-stats-Springboot` directory:
 
    ```bash
    cd football-stats-backend
-npm install
+mvn clean install
 
-npm run dev
+mvn spring-boot:run
